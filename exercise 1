@@ -1,0 +1,15 @@
+Q1. Write a Java program to build a calculator to perform all arithmetic operations where you have to take input through command line like this:
+
+
+Q2. Write a Java program to enter temperature in Celcius and convert it into Fahrenheit. Take input through command line.
+
+Q3. Write a java program to convert days into years, weeks and days. Take days as an input through command line.
+
+Q4. Write a java program to take date of birth as input and find out age of the person. Take input through command line.
+Hint : Use Date and Calendar Class
+
+Q5. Write a java program to convert username into proper case. Take input through command line.
+For example
+- Input : rAm KUmar shARma
+- Output : Ram Kumar Sharma
+Hint : Use String class methods
